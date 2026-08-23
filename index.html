@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Henko Benko – pop, rock och fullt ös från första låten till sista extranumret." />
+    <title>Henko Benko</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header" data-header>
+      <a class="brand" href="#top" aria-label="Henko Benko – startsida">
+        <img src="logo/HenkoBenko_Logo_Vit.svg" alt="Henko Benko" />
+      </a>
+      <button class="menu-button" type="button" aria-label="Öppna meny" aria-expanded="false" aria-controls="main-menu" data-menu-button>
+        <span></span><span></span>
+      </button>
+      <nav id="main-menu" class="main-menu" aria-label="Huvudmeny" data-menu>
+        <a href="#live">Live</a><a href="#bandet">Bandet</a><a href="#press">Press</a><a href="#kontakt">Kontakt</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-label="Henko Benko live">
+        <video autoplay muted loop playsinline poster="HenkoBenkoPublik.jpg">
+          <source src="video/hero2.mp4" type="video/mp4" />
+        </video>
+        <div class="hero-shade"></div>
+        <div class="hero-content">
+          <p class="eyebrow">Pop · Rock · Partymaskin</p>
+          <img class="hero-logo" src="logo/HenkoBenko_Logo_Vit_2rad.svg" alt="Henko Benko" />
+          <h1>Vi ses längst fram.</h1>
+          <a class="button button-light" href="#kontakt">Boka bandet <span aria-hidden="true">↗</span></a>
+        </div>
+        <a class="scroll-cue" href="#live"><span>Scrolla</span><b aria-hidden="true">↓</b></a>
+      </section>
+
+      <section class="ticker" aria-hidden="true">
+        <div><span>Henko Benko live</span><i>★</i><span>Allsång</span><i>★</i><span>Fullt ös</span><i>★</i><span>Henko Benko live</span><i>★</i><span>Allsång</span><i>★</i><span>Fullt ös</span><i>★</i></div>
+      </section>
+
+      <section id="live" class="section live-section">
+        <div class="section-heading">
+          <p class="eyebrow dark">På en scen nära dig</p>
+          <h2>Live</h2>
+        </div>
+        <div class="shows">
+          <article class="show"><time datetime="2026-09-19"><strong>19</strong><span>SEP</span></time><div><h3>Håll utkik!</h3><p>Nya spelningar släpps snart</p></div><a href="#kontakt" aria-label="Kontakta oss om spelningar">Hör av dig ↗</a></article>
+        </div>
+        <p class="live-note">Vill du att nästa stopp ska bli hos dig?</p>
+      </section>
+
+      <section id="bandet" class="band-section">
+        <div class="band-image"><img src="images/Henko-Benko-Gruppbild.jpg" alt="Medlemmarna i Henko Benko" loading="lazy" /></div>
+        <div class="band-copy">
+          <p class="eyebrow">Sedan 2009</p>
+          <h2>Fyra vänner.<br />Ett jäkla drag.</h2>
+          <p>Henko Benko levererar hitsen du glömt att du älskar och låtarna du alltid skriker med i. Från första ackordet är målet enkelt: ingen ska stå still.</p>
+          <p>Bröllop, festival eller fullsatt klubb – vi tar med festen.</p>
+          <a class="text-link" href="#kontakt">Boka Henko Benko <span>↗</span></a>
+        </div>
+      </section>
+
+      <section id="press" class="section press-section">
+        <div class="section-heading row"><div><p class="eyebrow dark">Bakom kulisserna</p><h2>Press & bilder</h2></div><a class="button button-dark" href="mailto:booking@henkobenko.se?subject=Pressmaterial">Be om presskit ↗</a></div>
+        <div class="gallery">
+          <figure class="wide"><img src="press/Henko Benko Gruppbild.jpg" alt="Henko Benko gruppbild" loading="lazy" /></figure>
+          <figure><img src="press/HenkoBenkoJuldag2022-henk.jpg" alt="Henko Benko på scen" loading="lazy" /></figure>
+          <figure><img src="press/HenkoBenkoJuldag2022-Andy.jpg" alt="Gitarrist i Henko Benko live" loading="lazy" /></figure>
+        </div>
+      </section>
+
+      <section id="kontakt" class="contact-section">
+        <img class="contact-star" src="logo/HenkoBenko_Star_Vit.png" alt="" />
+        <p class="eyebrow">Dags att dra igång?</p>
+        <h2>Vi tar festen<br />till dig.</h2>
+        <a class="contact-mail" href="mailto:booking@henkobenko.se">booking@henkobenko.se <span>↗</span></a>
+      </section>
+    </main>
+    <footer><img src="logo/HenkoBenko_Logo_Vit.svg" alt="Henko Benko" /><p>© <span data-year></span> Henko Benko</p><a href="#top">Till toppen ↑</a></footer>
+    <script src="script.js"></script>
+  </body>
+</html>
