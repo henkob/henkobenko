@@ -209,7 +209,7 @@ code { display: inline-block; padding: 7px 9px; border-radius: 4px; background: 
   .main-menu .menu-book { padding: 8px 20px; }
   .hero { height: auto; min-height: 100svh; padding: 92px 6vw 48px; }
   .hero-content { position: relative; left: auto; bottom: auto; width: 100%; }
-  .hero h1 { max-width: 100%; margin-bottom: 18px; font-size: clamp(38px, 10.5vw, 52px); line-height: 1.08; }
+  .hero h1 { max-width: 100%; margin-bottom: 18px; font-size: clamp(38px, 10.5vw, 52px); line-height: 1.18; }
   .hero-logo-desktop { display: none; }
   .hero-logo-mobile { display: block; width: 80vw; max-width: none; height: auto; margin: 24px 0; }
   .hero-intro { line-height: 1.5; }
