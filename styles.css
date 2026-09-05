@@ -207,13 +207,15 @@ code { display: inline-block; padding: 7px 9px; border-radius: 4px; background: 
   .main-menu.open { display: flex; }
   .main-menu a { font: 36px Anton, sans-serif; letter-spacing: 0; }
   .main-menu .menu-book { padding: 8px 20px; }
-  .hero { min-height: 100svh; padding: 118px 6vw 150px; }
+  .hero { height: auto; min-height: 100svh; padding: 92px 6vw 48px; }
   .hero-content { position: relative; left: auto; bottom: auto; width: 100%; }
-  .hero h1 { font-size: clamp(42px, 13vw, 68px); }
+  .hero h1 { max-width: 100%; margin-bottom: 18px; font-size: clamp(38px, 10.5vw, 52px); line-height: 1.08; }
   .hero-logo-desktop { display: none; }
-  .hero-logo-mobile { display: block; width: 88vw; max-width: none; height: auto; margin: 34px 0 30px; }
-  .hero-actions { flex-direction: column; align-items: flex-start; }
-  .hero-facts { left: 6vw; right: auto; bottom: 27px; flex-wrap: wrap; gap: 8px 12px; }
+  .hero-logo-mobile { display: block; width: 80vw; max-width: none; height: auto; margin: 24px 0; }
+  .hero-intro { line-height: 1.5; }
+  .hero-actions { flex-direction: column; align-items: flex-start; margin-top: 24px; }
+  .hero-actions .button { padding: 16px 20px; }
+  .hero-facts { position: relative; left: auto; right: auto; bottom: auto; margin-top: 52px; flex-wrap: wrap; gap: 8px 12px; }
   .hero-facts span { font-size: 9px; }
   .section { padding: 82px 6vw; }
   .split-heading, .press-hero { grid-template-columns: 1fr; }
