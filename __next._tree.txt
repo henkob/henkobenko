@@ -1,8 +1,8 @@
-:HL["/henkobenko/_next/static/chunks/12x2l1-mg.8yy.css","style"]
-:HL["/henkobenko/logo/HenkoBenko_Logo_Vit.svg","image"]
-:HL["/henkobenko/images/HenkoBenkoPublik.jpg","image"]
-:HL["/henkobenko/press/HenkoBenkoJuldag2022-henk.jpg","image"]
-:HL["/henkobenko/press/HenkoBenkoJuldag2022-Benk.jpg","image"]
-:HL["/henkobenko/press/HenkoBenkoJuldag2022-Andy.jpg","image"]
-:HL["/henkobenko/press/HenkoBenkoJuldag2022-gus.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xZpsuZERHRXF-ua1FP4gk"}
+:HL["/_next/static/chunks/12x2l1-mg.8yy.css","style"]
+:HL["/logo/HenkoBenko_Logo_Vit.svg","image"]
+:HL["/images/HenkoBenkoPublik.jpg","image"]
+:HL["/press/HenkoBenkoJuldag2022-henk.jpg","image"]
+:HL["/press/HenkoBenkoJuldag2022-Benk.jpg","image"]
+:HL["/press/HenkoBenkoJuldag2022-Andy.jpg","image"]
+:HL["/press/HenkoBenkoJuldag2022-gus.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"8CBq5YtlBViDCR0Fr0XVu"}
