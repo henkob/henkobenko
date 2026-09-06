@@ -1,3 +1,3 @@
-:HL["/henkobenko/_next/static/chunks/0lobq2fwnpvra.css","style"]
+:HL["/henkobenko/_next/static/chunks/12x2l1-mg.8yy.css","style"]
 :HL["/henkobenko/logo/HenkoBenko_Logo_Vit.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"teknik","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"LIRuz1fPhMQWs_tTEDJgj"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"teknik","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"xZpsuZERHRXF-ua1FP4gk"}
