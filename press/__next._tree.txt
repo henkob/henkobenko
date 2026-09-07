@@ -7,4 +7,4 @@
 :HL["/logo/HenkoBenko_Logo_Vit.svg","image"]
 :HL["/logo/HenkoBenko_Logo_Vit_2rad.svg","image"]
 :HL["/logo/HenkoBenko_Logo_Svart.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"press","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"d_Fy36L-kl-in2bvGQ7FE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"press","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"rKHVDK9o5Lk4oQRzfa-Lu"}
